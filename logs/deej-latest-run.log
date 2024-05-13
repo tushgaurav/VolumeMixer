@@ -1,0 +1,85 @@
+2024-05-12 16:31:32.675	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2024-05-12 16:31:32.677	info	deej.config                	Loaded config successfully
+2024-05-12 16:31:32.677	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM4","BaudRate":9600}, "invertSliders": false}
+2024-05-12 16:31:32.729	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2024-05-12 16:31:32.803	info	deej                       	Run loop starting
+2024-05-12 16:31:32.803	warn	deej.serial                	Failed to open serial connection	{"error": "The system cannot find the file specified."}
+2024-05-12 16:31:32.803	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: The system cannot find the file specified."}
+2024-05-12 16:31:32.803	warn	deej                       	Provided COM port seems wrong, notifying user and closing	{"comPort": "COM4"}
+2024-05-12 16:31:32.803	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM4!", "message": "This serial port doesn't exist, check your configuration and make sure it's set correctly."}
+2024-05-12 16:31:33.155	info	deej                       	Stopping
+2024-05-12 16:38:18.911	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2024-05-12 16:38:18.914	info	deej.config                	Loaded config successfully
+2024-05-12 16:38:18.914	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM4","BaudRate":9600}, "invertSliders": false}
+2024-05-12 16:38:18.966	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2024-05-12 16:38:19.021	info	deej                       	Run loop starting
+2024-05-12 16:38:19.022	warn	deej.serial                	Failed to open serial connection	{"error": "The system cannot find the file specified."}
+2024-05-12 16:38:19.022	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: The system cannot find the file specified."}
+2024-05-12 16:38:19.022	warn	deej                       	Provided COM port seems wrong, notifying user and closing	{"comPort": "COM4"}
+2024-05-12 16:38:19.022	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM4!", "message": "This serial port doesn't exist, check your configuration and make sure it's set correctly."}
+2024-05-12 16:38:19.360	info	deej                       	Stopping
+2024-05-12 16:39:12.309	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2024-05-12 16:39:12.312	info	deej.config                	Loaded config successfully
+2024-05-12 16:39:12.312	info	deej.config                	Config values	{"sliderMapping": "<1 sliders mapped to 1 targets>", "connectionInfo": {"COMPort":"COM3","BaudRate":9600}, "invertSliders": false}
+2024-05-12 16:39:12.367	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2024-05-12 16:39:12.433	info	deej                       	Run loop starting
+2024-05-12 16:39:12.434	info	deej.serial.com3           	Connected	{"conn": {}}
+2024-05-12 16:39:14.124	info	deej.serial.com3           	Detected sliders	{"amount": 1}
+2024-05-12 16:40:01.306	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2024-05-12 16:41:26.764	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2024-05-12 16:42:17.497	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2024-05-12 16:44:19.299	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<13 audio sessions>"}
+2024-05-12 17:54:07.869	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<19 audio sessions>"}
+2024-05-12 18:09:35.895	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<17 audio sessions>"}
+2024-05-12 18:19:49.566	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<18 audio sessions>"}
+2024-05-12 18:22:10.459	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<18 audio sessions>"}
+2024-05-12 18:25:51.188	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<18 audio sessions>"}
+2024-05-12 20:17:24.696	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<18 audio sessions>"}
+2024-05-13 22:11:22.128	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2024-05-13 22:11:22.137	info	deej.config                	Loaded config successfully
+2024-05-13 22:11:22.137	info	deej.config                	Config values	{"sliderMapping": "<1 sliders mapped to 1 targets>", "connectionInfo": {"COMPort":"COM3","BaudRate":9600}, "invertSliders": false}
+2024-05-13 22:11:22.181	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2024-05-13 22:11:22.235	info	deej                       	Run loop starting
+2024-05-13 22:11:22.237	info	deej.serial.com3           	Connected	{"conn": {}}
+2024-05-13 22:11:23.918	info	deej.serial.com3           	Detected sliders	{"amount": 1}
+2024-05-13 22:14:23.607	info	deej.tray                  	Quit menu item clicked, stopping
+2024-05-13 22:14:23.610	info	deej                       	Stopping
+2024-05-13 22:14:30.223	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2024-05-13 22:14:30.224	info	deej.config                	Loaded config successfully
+2024-05-13 22:14:30.224	info	deej.config                	Config values	{"sliderMapping": "<1 sliders mapped to 1 targets>", "connectionInfo": {"COMPort":"COM3","BaudRate":9600}, "invertSliders": false}
+2024-05-13 22:14:30.268	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2024-05-13 22:14:30.326	info	deej                       	Run loop starting
+2024-05-13 22:14:30.327	info	deej.serial.com3           	Connected	{"conn": {}}
+2024-05-13 22:14:32.047	info	deej.serial.com3           	Detected sliders	{"amount": 5}
+2024-05-13 22:16:34.040	info	deej.tray                  	Quit menu item clicked, stopping
+2024-05-13 22:16:34.040	info	deej                       	Stopping
+2024-05-13 22:30:49.289	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2024-05-13 22:30:49.291	info	deej.config                	Loaded config successfully
+2024-05-13 22:30:49.291	info	deej.config                	Config values	{"sliderMapping": "<1 sliders mapped to 1 targets>", "connectionInfo": {"COMPort":"COM3","BaudRate":9600}, "invertSliders": false}
+2024-05-13 22:30:49.332	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2024-05-13 22:30:49.369	info	deej                       	Run loop starting
+2024-05-13 22:30:49.369	warn	deej.serial                	Failed to open serial connection	{"error": "Access is denied."}
+2024-05-13 22:30:49.369	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: Access is denied."}
+2024-05-13 22:30:49.369	warn	deej                       	Serial port seems busy, notifying user and closing	{"comPort": "COM3"}
+2024-05-13 22:30:49.369	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM3!", "message": "This serial port is busy, make sure to close any serial monitor or other deej instance."}
+2024-05-13 22:30:49.663	info	deej                       	Stopping
+2024-05-13 22:31:37.691	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2024-05-13 22:31:37.705	info	deej.config                	Loaded config successfully
+2024-05-13 22:31:37.705	info	deej.config                	Config values	{"sliderMapping": "<2 sliders mapped to 2 targets>", "connectionInfo": {"COMPort":"COM3","BaudRate":9600}, "invertSliders": false}
+2024-05-13 22:31:37.755	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2024-05-13 22:31:37.805	info	deej                       	Run loop starting
+2024-05-13 22:31:37.805	warn	deej.serial                	Failed to open serial connection	{"error": "Access is denied."}
+2024-05-13 22:31:37.805	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: Access is denied."}
+2024-05-13 22:31:37.805	warn	deej                       	Serial port seems busy, notifying user and closing	{"comPort": "COM3"}
+2024-05-13 22:31:37.805	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM3!", "message": "This serial port is busy, make sure to close any serial monitor or other deej instance."}
+2024-05-13 22:31:38.105	info	deej                       	Stopping
+2024-05-13 22:31:51.041	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2024-05-13 22:31:51.043	info	deej.config                	Loaded config successfully
+2024-05-13 22:31:51.043	info	deej.config                	Config values	{"sliderMapping": "<2 sliders mapped to 2 targets>", "connectionInfo": {"COMPort":"COM3","BaudRate":9600}, "invertSliders": false}
+2024-05-13 22:31:51.091	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2024-05-13 22:31:51.142	info	deej                       	Run loop starting
+2024-05-13 22:31:51.142	warn	deej.serial                	Failed to open serial connection	{"error": "Access is denied."}
+2024-05-13 22:31:51.142	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: Access is denied."}
+2024-05-13 22:31:51.142	warn	deej                       	Serial port seems busy, notifying user and closing	{"comPort": "COM3"}
+2024-05-13 22:31:51.142	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM3!", "message": "This serial port is busy, make sure to close any serial monitor or other deej instance."}
+2024-05-13 22:31:51.457	info	deej                       	Stopping
